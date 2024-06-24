@@ -20,7 +20,7 @@ To get started:
 
 1. Clone this repo
 ```bash
-git clone https://github.com/956961/TreeSearch && cd LanguageAgentTreeSearch/hotpot
+git clone -b master https://github.com/956961/TreeSearch && cd LanguageAgentTreeSearch/hotpot
 ```
 
 2. Install the module dependencies into your environment:
